@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color-texto{
+    color: aliceblue;
+}
+
+.propiedades-texto{
+    font-weight: bold;
+    color: aliceblue;
+
+}
+.propiedades-fondo {
+    background-color:black;
+}
+.propiedades-titulo{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+.propiedades-header{
+   
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-size: small;
+    justify-content: space-between;
+    
+    
+    
+}

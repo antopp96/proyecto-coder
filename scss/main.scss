@@ -1,0 +1,220 @@
+@import "parciales/base";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color-texto{
+    color: aliceblue;
+}
+
+.propiedades-texto{
+    font-weight: bold;
+    color: aliceblue;
+
+}
+.propiedades-fondo {
+    background-color:black;
+}
+.propiedades-titulo{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+.propiedades-header{
+   
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-size: small;
+    justify-content: space-between;
+    
+    
+    
+}
+
+
+
+.menu-nav{
+    display: flex;
+    list-style: none;
+    padding: 40px;
+}
+.biografia{
+    background-color:black;
+    color: white;
+    
+
+}
+.biografia__titulo{
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.biografia__parrafo{
+    font-style: oblique;
+    font-weight: bold;
+    padding: 16px;
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    
+}
+.titulo__galeria{
+
+}
+.biografia__imagen{
+width: 100%;
+border: 5px solid white;
+}
+
+a{
+    color: white;
+}
+
+.titulo-parrafo{
+    color:white;  
+}
+.formulario{
+    color:white; 
+    border: 5px solid white;
+    padding: 15px;
+    margin-top: 10px;
+    width: 50%;
+    
+    
+}
+
+.formulario__nombre{
+
+
+
+}
+.formulario__mail{
+
+}
+.formulario__comentario{
+
+}
+p{
+    color: white;
+}
+span{
+    color: white; 
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+h2{
+    color: white;
+}
+.canciones{
+    border: 5px solid white;
+    padding: 15px;
+    margin-top: 10px;
+    width: 50%
+}
+.grid-fotos{
+    border: 1px solid black;
+    padding: 1rem;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    display: grid;
+    
+    
+}
+.grid-video{
+    grid-template-columns: 100px 100px 100px;
+    border: 1px solid black;
+    
+    
+}
+
+.mb-3{
+    font-family: 'Oswald', sans-serif;
+}
+.fw-lighter{
+    
+}
+
+
+
+
+/*tablet*/
+
+@media screen and (max-width:1023px) {
+    .propiedades-titulo{
+        color: aliceblue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 60px;
+        text-align: left;
+}
+.grid-fotos{
+    border: 1px solid black;
+    padding: 1rem;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    display: grid;
+    justify-content: center;
+}
+}
+
+/*movil*/
+@media screen and (max-width:599px) {
+
+.biografia__titulo{
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    text-align: left
+    font-size: 30px;
+
+}
+}
+.biografia__imagen{
+width: 70%;
+border: 5px solid white;
+justify-content: center;
+display: flex;
+margin-left: 16px;
+margin-right: 20px;
+
+}
+.biografia__parrafo{
+    font-style: oblique;
+    font-weight: bold;
+    padding: 16px;
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    justify-content: center;
+    
+}
+.grid-fotos{
+    border: 1px solid black;
+    padding: 1rem;
+    grid-template-columns: 20px;
+    grid-template-rows: 1fr;
+    display: grid;
+    justify-content: center;
+    display: inline;
+    
+    
+}
+.grid-video{
+    grid-template-columns: 1fr;
+    border: 1px solid black;
+    overflow: hidden;
+    grid-template-rows: 1fr;
+    
+
+}
+.menu-nav{
+    display: flex;
+    list-style: none;
+    padding: 40px;
+    
+}
