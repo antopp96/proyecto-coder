@@ -1,0 +1,101 @@
+.menu-nav{
+    display: flex;
+    list-style: none;
+    padding: 40px;
+}
+.biografia{
+    background-color:black;
+    color: white;
+    
+
+}
+.biografia__titulo{
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.biografia__parrafo{
+    font-style: oblique;
+    font-weight: bold;
+    padding: 16px;
+    font-family: 'Lora', serif;
+    font-size: 15px;
+    
+}
+.titulo__galeria{
+
+}
+.biografia__imagen{
+width: 100%;
+border: 5px solid white;
+}
+
+a{
+    color: white;
+}
+
+.titulo-parrafo{
+    color:white;  
+}
+.formulario{
+    color:white; 
+    border: 5px solid white;
+    padding: 15px;
+    margin-top: 10px;
+    width: 50%;
+    
+    
+}
+
+.formulario__nombre{
+
+
+
+}
+.formulario__mail{
+
+}
+.formulario__comentario{
+
+}
+p{
+    color: white;
+}
+span{
+    color: white; 
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+h2{
+    color: white;
+}
+.canciones{
+    border: 5px solid white;
+    padding: 15px;
+    margin-top: 10px;
+    width: 50%
+}
+.grid-fotos{
+    border: 1px solid black;
+    padding: 1rem;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    display: grid;
+    
+    
+}
+.grid-video{
+    grid-template-columns: 100px 100px 100px;
+    border: 1px solid black;
+    
+    
+}
+
+.mb-3{
+    font-family: 'Oswald', sans-serif;
+}

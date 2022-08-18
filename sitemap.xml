@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/issues</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/pulls</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/projects?type=new</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/security</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/blob/actualizacion-bootstrap/.gitignore</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/blob/actualizacion-bootstrap/index.html</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/blob/actualizacion-bootstrap/package-lock.json</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/blob/actualizacion-bootstrap/package.json</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/releases</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/compare</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions/runs/2843430248</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions/runs/2843275784</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions/runs/2842871737</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions/runs/2755461778</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/projects?type=classic</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/projects?type=beta</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/security/policy</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/security/advisories</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/blob/b18db1e1986d79db9e0b864a938dc58b92f31ba3/.gitignore</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/find/actualizacion-bootstrap</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/blob/b18db1e1986d79db9e0b864a938dc58b92f31ba3/index.html</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/blob/b18db1e1986d79db9e0b864a938dc58b92f31ba3/package-lock.json</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/blob/b18db1e1986d79db9e0b864a938dc58b92f31ba3/package.json</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels?sort=name-asc</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels?sort=name-desc</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels?sort=count-desc</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels?sort=count-asc</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels/bug</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels/documentation</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels/duplicate</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels/enhancement</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels/good%20first%20issue</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels/help%20wanted</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels/invalid</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels/question</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/labels/wontfix</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?state=open</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?state=closed</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7797460142?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7797465214?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7797465310?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/commit/b18db1e1986d79db9e0b864a938dc58b92f31ba3</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions/runs/2843430248/usage</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7797060867?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7797070156?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7797070050?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/commit/d4a9d7f5f9612eb3bdb97a44f67beea8796871e5</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions/runs/2843275784/usage</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7795965563?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7795973693?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7795973556?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/commit/04f087a2844cbe8feaec7c31e6a35540f443e55d</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions/runs/2842871737/usage</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7565035221?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7565048209?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/runs/7565048358?check_suite_focus=true</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/commit/bbeb798cacc58ba6c867150b79cab9ff2ef0a3cd</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/actions/runs/2755461778/usage</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/security/advisories?state=published</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/find/b18db1e1986d79db9e0b864a938dc58b92f31ba3</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/antopp96/proyecto-coder/commit/3c3f5444d0cd797f5f86ce2c3de335d9b7cd3c07</loc>
+  <lastmod>2022-08-18T00:49:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
