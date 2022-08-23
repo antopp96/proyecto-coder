@@ -161,6 +161,9 @@ h2{
     display: grid;
     justify-content: center;
 }
+.propiedades-fondo {
+    background-color:black;
+}
 }
 
 /*movil*/
@@ -216,4 +219,7 @@ margin-right: 20px;
     list-style: none;
     padding: 40px;
     
+}
+.propiedades-fondo {
+    background-color:black;
 }
